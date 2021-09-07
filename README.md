@@ -1,4 +1,4 @@
-# frontend
+# THIS PROJECT MADE WITH LOVE BY ME ❤  
 
 ## Project setup
 ```
