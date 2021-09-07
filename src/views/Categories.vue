@@ -1,23 +1,16 @@
 <template>
-  <div>
-  
-  <div>
-  <Header/>
-  </div>
-  
-  </div>
+<div>
+<Header/>
+</div>  
 </template>
 
 <script>
 import Header from "../components/Header.vue";
-
-
 export default {
-name:"About",
-components:{
-    Header,
+    name:"Categories",
+    components:{
+        Header,
     },
-    
 }
 </script>
 
